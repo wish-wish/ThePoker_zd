@@ -2,7 +2,6 @@
 which is named with TheOldPoker.<br/>
 TheRotateMatch for the human card.<br/>
 Poker form zheng dian , from the real card, scan it , then process it with ps. for rotatematch
-bba5b5e
 .<br/> 
 slice it. and named it, which the art maker alway forgot.<br/>
 contain Some from internet/two from my work.<br/>
